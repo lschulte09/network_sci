@@ -1,4 +1,4 @@
-v_id,lon,lat,typ,voltage,frequency,name,operator,ref,wkt_srid_4326
+v_id,lon,lat,typ,voltage,frequency,name,operator,ref,wkt_srid_4326,tmp1,tmp2,tmp3
 1,9.52257601112577,52.3604090734199,substation,220000;110000,50,Hannover/West,TenneT;EON_Netz,,SRID=4326;POINT(9.52257601112577 52.3604090734199)
 2,9.11321011483187,52.5438533448625,substation,220000,50,Umspannwerk Kraftwerk Robert Frank,TenneT,,SRID=4326;POINT(9.11321011483187 52.5438533448625)
 3,9.38974515063535,52.0263130791669,substation,380000;110000,50,UW Grohnde 380 kV / 110 kV,TenneT,,SRID=4326;POINT(9.38974515063535 52.0263130791669)
