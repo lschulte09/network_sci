@@ -1,0 +1,18 @@
+- edge betweenness
+- node betweenness
+
+- clustering coefficient to identify good clusters
+- community analysis
+- path length to plant or generator to see WEAK nodes
+
+- robustness analysis
+
+- most damage with 
+	- n=1
+	- n=2
+- remove the least edges to isolate the largest community
+
+- node2vec analysis of sussy nodes
+
+- extend network to optimally improve aforementioned metrics
+
